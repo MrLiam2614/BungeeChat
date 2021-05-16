@@ -1,0 +1,10 @@
+## Config for BungeeChat
+msg:
+  enable: true
+  prefix: "?msg"
+staffChat:
+  enable: true
+  prefix: "#"
+userChat:
+  enable: false
+  prefix: "!"
